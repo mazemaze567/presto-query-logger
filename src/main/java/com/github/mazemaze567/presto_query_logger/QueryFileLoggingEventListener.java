@@ -1,3 +1,5 @@
+package com.github.mazemaze567.presto_query_logger;
+
 import io.prestosql.spi.eventlistener.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
