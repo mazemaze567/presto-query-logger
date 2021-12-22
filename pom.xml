@@ -12,7 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <presto.version>316</presto.version>
         <log4j2.version>2.17.0</log4j2.version>
-        <jackson.version>2.10.3</jackson.version>
+        <jackson.version>2.10.5.1</jackson.version>
         <common-csv.version>1.7</common-csv.version>
     </properties>
 
